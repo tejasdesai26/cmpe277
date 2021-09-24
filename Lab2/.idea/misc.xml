@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Downloads/Todo_android/app/src/main/res/layout/activity_main.xml" value="0.2010443864229765" />
+        <entry key="..\:/Downloads/Todo_android/app/src/main/res/layout/fragment_sample_dialog.xml" value="0.19298245614035087" />
+        <entry key="..\:/Downloads/Todo_android/app/src/main/res/layout/horizontal_line.xml" value="0.1796875" />
+        <entry key="..\:/Downloads/Todo_android/app/src/main/res/layout/new_task.xml" value="0.375" />
+        <entry key="..\:/Downloads/Todo_android/app/src/main/res/layout/task_list.xml" value="0.375" />
+        <entry key="..\:/Downloads/Todo_android/app/src/main/res/menu/main.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
